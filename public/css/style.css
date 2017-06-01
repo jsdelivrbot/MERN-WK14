@@ -1,0 +1,42 @@
+
+ul {
+  padding: 15px;
+  border-style:solid;
+  border-radius: 15px;
+  border-width:1px;
+  border-color:rgb(133, 133, 133);
+}
+
+ul li {
+  margin: 15px;
+}
+ul li:hover{
+  color:white;
+  background: rgb(55, 55, 55);
+
+}
+footer {
+      margin:8px;
+      background: rgb(55, 155, 155);
+      color: white;
+      padding: 15px;
+      border-radius: 15px;
+}
+#bookdetail{
+  margin-top: 20px;
+  padding: 15px
+}
+img {
+    display:block;
+    margin:auto;
+}
+
+#bookdetail{
+  margin-top:0px;
+  margin-left:15px;
+}
+
+.detail{
+      border: 1px solid rgb(133, 133, 133);
+        border-radius: 15px;
+}
